@@ -1,0 +1,12 @@
+# Minimal requirements for the notebooks in this repository
+# Python 3.10+ recommended
+
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+torch
+jupyter
+ipython
+rpy2
